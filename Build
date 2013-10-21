@@ -1,0 +1,48 @@
+==RFC: Proposal for general use server hardware
+
+Preliminary hardware list v1.1:
+	Note: Hardware additions may be proposed and installed at user(s) expense.
+	It is suggested that any additional hardware be vetted for compatibility 
+	with VMware's ESXi 5.5 hypervisor. On-site administration not responsible
+	for hardware incompatibilities.
+
+Storage:
+	1x 2TB WD Black (primary storage)
+		P/N: WD2002FAEX
+		Cost: $150 (Newegg/Amazon)
+	
+Memory:
+	16GB (in 2x8GB ECC memory modules) Wintec ECC Memory
+		P/N: 3RSH160011R5H-16GK
+		Cost: 190
+		
+Processor:
+	1x 3.5Ghz Intel Xeon 1275v3 Quad Core Socket 1150
+		P/N: BX80646E31275V3
+		Cost: 354
+		
+Motherboard:
+	1x Supermicro Micro ATX Server Motherboard socket 1150 1600DDR3
+		P/N: X10SLH-F-O
+		Cost: 201
+
+Power Supply:
+	1x Whatever shawn has
+		P/N: Ask Shawn
+		Cost: Included
+		
+Case:
+	1x Raidmax Iceberg Mid ATX tower
+		P/N: ATX-012WB
+		Cost: Included
+		
+Total Cost: 895
+Approx. tax: 75
+Final Cost: 970
+
+Current Contributing Members:
+Graham 	Alldredge
+Chad 	Finch
+Shawn 	Mahan
+Dylan 	Tripp
+Matthew Vanoni
