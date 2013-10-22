@@ -52,11 +52,11 @@ Proposed Exclusive Additions:
 (Graham)
 
 RAID controller:
-	Intel 4x RAID controller
+	IBM m1015 8x RAID controller
 		P/N: RMS25KB040 
-		Cost: 150
+		Cost: 130
 		
-	SFF-8087 Breakout cable
+	1x SFF-8087 Breakout cable
 		Cost: 10
 
 RAID storage:
@@ -64,4 +64,4 @@ RAID storage:
 		P/N: WD20EFRX
 		Cost: 100/ea
 		
-Total Exclusive Cost (Graham): 600
+Total Exclusive Cost (Graham): 580
