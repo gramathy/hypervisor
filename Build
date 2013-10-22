@@ -36,9 +36,9 @@ Case:
 		P/N: ATX-012WB
 		Cost: Included
 		
-Total Cost: 895
+Total Shared Cost: 895
 Approx. tax: 75
-Final Cost: 970
+Final Shared Cost: 970
 
 Current Contributing Members:
 Graham 	Alldredge
@@ -46,3 +46,22 @@ Chad 	Finch
 Shawn 	Mahan
 Dylan 	Tripp
 Matthew Vanoni
+
+Proposed Exclusive Additions:
+
+(Graham)
+
+RAID controller:
+	Intel 4x RAID controller
+		P/N: RMS25KB040 
+		Cost: 150
+		
+	SFF-8087 Breakout cable
+		Cost: 10
+
+RAID storage:
+	4x WD RED NAS HDD
+		P/N: WD20EFRX
+		Cost: 100/ea
+		
+Total Exclusive Cost (Graham): 600
